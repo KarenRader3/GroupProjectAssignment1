@@ -12,6 +12,8 @@ namespace GroupProjectAssignment1
 
             //Greetings team -Chris
 
+            //Karen making one final comment - we are good to submit the link to canvas!
+
             Console.WriteLine("Hello World!");
         }
     }
