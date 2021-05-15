@@ -7,6 +7,8 @@ namespace GroupProjectAssignment1
         static void Main(string[] args)
         {
             //This is my comment - akila
+
+            //Hello from Dominick
             Console.WriteLine("Hello World!");
         }
     }
